@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alart2</string>
+    <string name="msg_notification_title">通知</string>
+    <string name="msg_notification_text">通知</string>
+</resources>
